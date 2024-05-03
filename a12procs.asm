@@ -1,11 +1,3 @@
-; *****************************************************************
-;  Name: Tyler Wescott
-;  NSHE_ID: 5006959108
-;  Section: 1004
-;  Assignment: 12
-;  Description: Find Smith Numbers with a command line user input senary number limit
-
-; -----
 ;  Example Smith Number Count for 1 to 200: 8
 ;	4	22	27	58
 ;	85	94	121	166
