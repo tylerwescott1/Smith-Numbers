@@ -1,4 +1,3 @@
-// CS 218 - Provided C++ program
 //	This program finds the count of smith numbers.
 //	Calls assembly language routines.
 
