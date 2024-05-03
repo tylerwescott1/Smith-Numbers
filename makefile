@@ -1,5 +1,4 @@
-# CS 218 Assignment #12
-# Simple make file for asst #12
+# Simple make file
 
 OBJS	= smithNums.o a12procs.o
 ASM	= yasm -g dwarf2 -f elf64
